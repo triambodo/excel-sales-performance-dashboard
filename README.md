@@ -27,13 +27,13 @@ This project analyzes sales performance using Microsoft Excel. The dashboard was
 - KPI Dashboard
 - Data Visualization
 
----
+
 
 ## Dashboard Preview
 
 > *(Add your dashboard screenshot here)*
 
-```markdown
+
 ![Dashboard](images/dashboard.png)
 ```
 
