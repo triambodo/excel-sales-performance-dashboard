@@ -30,10 +30,6 @@ This project analyzes sales performance using Microsoft Excel. The dashboard was
 
 
 ## Dashboard Preview
-
-> *(Add your dashboard screenshot here)*
-
-
 ![Dashboard](images/dashboard.png)
 ```
 
