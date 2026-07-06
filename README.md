@@ -31,9 +31,9 @@ This project analyzes sales performance using Microsoft Excel. The dashboard was
 
 ## Dashboard Preview
 ![Dashboard](images/dashboard.png)
-```
 
----
+
+
 
 ## Key Performance Indicators
 
